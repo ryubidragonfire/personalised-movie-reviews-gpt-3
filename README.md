@@ -26,7 +26,7 @@ This project consists of notebooks that perform the following tasks:
 
 1. [00-explore-data.ipynb](./notebooks/00-explore-data.ipynb) - This notebook explores the data by looking at the distribution of reviews for each movie titles, number of words per document, etc.
 2. [01-get-embeddings.ipynb](./notebooks/01-get-embeddings.ipynb) - This notebook uses pre-trained word embeddings to create vector representations for each document.
-3. [02-personalised-reviews-summary.ipynb](./notebooks/02-personalised-reviews-summary.ipynb) - This notebooks uses a typical technique to provide a respibse based of relevant reviews, as per user's query. 
+3. [02-personalised-reviews-summary.ipynb](./notebooks/02-personalised-reviews-summary.ipynb) - This notebooks uses a typical technique to provide a response based of relevant reviews, as per user's query. 
 
 # Future Work
 - This example shows the capabilities of GPT-3 using a small subset of data. One key area to explore in the future is how to scale the solution to large data corpus.
